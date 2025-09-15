@@ -1,0 +1,30 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+*.env
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Added ignores requested:
+.github/
+.venv/
+*.wl
+project_contents.txt
+requirement1.txt
+tempCodeRunnerFile*
+Untitled.ipynb
+untitled.ipynb
+uv.lock
+uv_lock
+pyproject.toml
